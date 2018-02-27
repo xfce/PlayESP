@@ -1,8 +1,7 @@
 # PlayESP
 Play with ESPEASY
-
 ## PlayESP_V1.0
-### ESPHOME _V1.0硬件特性
+### 一、PlayESP_V1.0硬件特性
 
 1）板载USB转串口及固件升级按键；
 
@@ -20,22 +19,23 @@ Play with ESPEASY
 
 8）ESP8266可用IO口全部引出，方便扩展。
 
-### 3D PCB & PCBA
+### 二、3D PCB & PCBA
+
 3D_PCB_TOP
-![image](https://github.com/xfce/PlayESP/raw/master/PlayESP_V1.0/img/3D_PCB_TOP.jpg)
+![3D_PCB_TOP](https://github.com/xfce/PlayESP/raw/master/PlayESP_V1.0/img/3D_PCB_TOP.jpg)
 
 3D_PCB_BOTTOM
-![3D_PCB_BOTTOM]https://github.com/xfce/PlayESP/raw/master/PlayESP/PlayESP_V1.0/图片/3D_PCB_BOTTOM.jpg 
+![3D_PCB_BOTTOM](https://github.com/xfce/PlayESP/raw/master/PlayESP_V1.0/img/3D_PCB_BOTTOM.jpg 
 
 PCBA_TOP
-![PCBA_TOP]https://github.com/xfce/PlayESP/raw/master/PlayESP/PlayESP_V1.0/图片/PCBA_TOP.jpg
+![PCBA_TOP](https://github.com/xfce/PlayESP/raw/master/PlayESP_V1.0/img/PCBA_TOP.jpg
 
 PCBA_BOTTOM
-![PCBA_BOTTOM]https://github.com/xfce/PlayESP/raw/master/PlayESP/PlayESP_V1.0/图片/PCBA_BOTTOM.jpg
+![PCBA_BOTTOM](https://github.com/xfce/PlayESP/raw/master/PlayESP_V1.0/img/PCBA_BOTTOM.jpg
 
-### ESPEasy+domoticz测试
+### 三、ESPEasy+domoticz测试
 
-![ESPHOME_test]https://github.com/xfce/PlayESP/raw/master/PlayESP/PlayESP_V1.0/图片/ESPHOME_test.png
+![ESPHOME_test](https://github.com/xfce/PlayESP/raw/master/PlayESP_V1.0/img/ESPHOME_test.png
 
 
 
