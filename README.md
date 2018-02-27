@@ -25,17 +25,17 @@ Play with ESPEASY
 ![3D_PCB_TOP](https://github.com/xfce/PlayESP/raw/master/PlayESP_V1.0/img/3D_PCB_TOP.jpg)
 
 3D_PCB_BOTTOM
-![3D_PCB_BOTTOM](https://github.com/xfce/PlayESP/raw/master/PlayESP_V1.0/img/3D_PCB_BOTTOM.jpg 
+![3D_PCB_BOTTOM](https://github.com/xfce/PlayESP/raw/master/PlayESP_V1.0/img/3D_PCB_BOTTOM.jpg) 
 
 PCBA_TOP
-![PCBA_TOP](https://github.com/xfce/PlayESP/raw/master/PlayESP_V1.0/img/PCBA_TOP.jpg
+![PCBA_TOP](https://github.com/xfce/PlayESP/raw/master/PlayESP_V1.0/img/PCBA_TOP.jpg)
 
 PCBA_BOTTOM
-![PCBA_BOTTOM](https://github.com/xfce/PlayESP/raw/master/PlayESP_V1.0/img/PCBA_BOTTOM.jpg
+![PCBA_BOTTOM](https://github.com/xfce/PlayESP/raw/master/PlayESP_V1.0/img/PCBA_BOTTOM.jpg)
 
 ### 三、ESPEasy+domoticz测试
 
-![ESPHOME_test](https://github.com/xfce/PlayESP/raw/master/PlayESP_V1.0/img/ESPHOME_test.png
+![ESPHOME_test](https://github.com/xfce/PlayESP/raw/master/PlayESP_V1.0/img/ESPHOME_test.png)
 
 
 
