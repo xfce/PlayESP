@@ -19,3 +19,23 @@ Play with ESPEASY
 7）7个TSAL6200全方位红外发射管；
 
 8）ESP8266可用IO口全部引出，方便扩展。
+
+### 3D PCB & PCBA
+3D_PCB_TOP
+![3D_PCB_TOP]https://github.com/xfce/PlayESP/blob/master/PlayESP/PlayESP_V1.0/图片/3D_PCB_TOP.jpg
+
+3D_PCB_BOTTOM
+![3D_PCB_BOTTOM]https://github.com/xfce/PlayESP/blob/master/PlayESP/PlayESP_V1.0/图片/3D_PCB_BOTTOM.jpg 
+
+PCBA_TOP
+![PCBA_TOP]https://github.com/xfce/PlayESP/blob/master/PlayESP/PlayESP_V1.0/图片/PCBA_TOP.jpg
+
+PCBA_BOTTOM
+![PCBA_BOTTOM]https://github.com/xfce/PlayESP/blob/master/PlayESP/PlayESP_V1.0/图片/PCBA_BOTTOM.jpg
+
+### ESPEasy+domoticz测试
+
+![ESPHOME_test]https://github.com/xfce/PlayESP/blob/master/PlayESP/PlayESP_V1.0/图片/ESPHOME_test.png
+
+
+
