@@ -22,7 +22,7 @@ Play with ESPEASY
 
 ### 3D PCB & PCBA
 3D_PCB_TOP
-![3D_PCB_TOP]https://github.com/xfce/PlayESP/tree/master/PlayESP_V1.0/%E5%9B%BE%E7%89%87/3D_PCB_TOP.jpg
+![image]https://github.com/xfce/PlayESP/raw/master/PlayESP_V1.0/img/3D_PCB_TOP.jpg
 
 3D_PCB_BOTTOM
 ![3D_PCB_BOTTOM]https://github.com/xfce/PlayESP/raw/master/PlayESP/PlayESP_V1.0/图片/3D_PCB_BOTTOM.jpg 
