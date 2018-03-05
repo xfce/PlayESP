@@ -37,5 +37,45 @@ PCBA_BOTTOM
 
 ![ESPHOME_test](https://github.com/xfce/PlayESP/raw/master/PlayESP_V1.0/img/ESPHOME_test.png)
 
+## PlayESP_V1.1
+### 一、PlayESP_V1.1硬件需求变更
+
+1)BMP280气压传感器；
+
+2)si7021温湿度传感器；
+
+3)MPU6050三轴加速度传感器；
+
+4)TSL2561光流量计；
+
+5)APDS9960手势识别；
+
+6)MOS控制电路，支持LED PWM调光功能；
+
+7)433射频控制收发模块；
+
+8)攀腾PMS5003 PM2.5传感器接口；
+
+9)MH-Z19二氧化碳传感器接口；
+
+10)一个TSOP4838红外解码学习；
+
+11)7个TSAL6200全方向红外发射管；
+
+12)USB转串口调试及固件升级按键；
+
+13)ESPEASY恢复出厂设置按键；
+
+14)ESP8266可用IO口全部引出，方便扩展；
+
+15)锂电池充电电路及电池电量检测，支持外接锂电池供电。
+
+
+
+
+
+
+
+
 
 
