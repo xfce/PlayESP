@@ -14,6 +14,9 @@ Play with ESPEASY
 PCBA安装盒尺寸
 ![PCBA安装盒尺寸](https://github.com/xfce/PlayESP/raw/master/PlayESP_V2.0/img/158-90-40.jpg) 
 
+PCBA调试中
+![PCBA调试](https://github.com/xfce/PlayESP/raw/master/PlayESP_V2.0/img/PCBA_asm.jpg) 
+
 
 ### 一、PlayESP_V2.0硬件特性
 
