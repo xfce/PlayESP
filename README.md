@@ -17,6 +17,9 @@ PCBA安装盒尺寸
 PCBA调试中
 ![PCBA调试](https://github.com/xfce/PlayESP/raw/master/PlayESP_V2.0/img/PCBA_asm.jpg) 
 
+红外编解码测试
+![PCBA调试](https://github.com/xfce/PlayESP/raw/master/PlayESP_V2.0/img/IRremote.png)
+
 
 ### 一、PlayESP_V2.0硬件特性
 
