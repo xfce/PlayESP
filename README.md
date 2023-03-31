@@ -6,7 +6,7 @@ Play with ESPEASY
 平台升级到V2.0, 以ESPEASY为基础平台，增加RFLINK(NRF24L01+RF433/315/868+CC2500),及ZiGate，开发平台PCBA根据158*90的电气盒设计，方便安装使用。
 
 3D_PCB_TOP
-![3D_PCB_TOP](https://github.com/xfce/PlayESP/raw/master/PlayESP_V2.0/img/3D_PCB_TOP.jpg)
+![3D_PCB](https://github.com/xfce/PlayESP/raw/master/PlayESP_V2.0/img/3D_PCB_TOP.jpg)
 
 3D_PCB_BOTTOM
 ![3D_PCB_BOTTOM](https://github.com/xfce/PlayESP/raw/master/PlayESP_V2.0/img/3D_PCB_BOTTOM.jpg) 
